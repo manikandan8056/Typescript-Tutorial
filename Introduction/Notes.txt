@@ -1,0 +1,12 @@
+TypeScript is a javaScript superset
+
+It's an "extention" to the javascript language 
+
+The core syntax and features are the same but extra features are added 
+
+Most importantly: Strict and static typing
+
+Why would you use TypeScript?
+****************************
+->refer mini-project
+
